@@ -12,7 +12,7 @@
 }
 /* indicator color */
 #person-carousel .carousel-indicators li {
-  background: #c0c0c0;
+  background: #00559c;
 }
 /* active indicator */
 #person-carousel .carousel-indicators .active {
@@ -38,7 +38,7 @@
 }
 /* indicator color */
 #org-carousel .carousel-indicators li {
-  background: #c0c0c0;
+  background: #00559c;
 }
 /* active indicator */
 #org-carousel .carousel-indicators .active {
